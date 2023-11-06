@@ -28,6 +28,6 @@ ONLY FOR KALI LINUX
   2. Run
   -in terminal
   ```
-  chmod +xw zoozoo.sh
-  ./zoozoo.sh
+  chmod +xw automation.sh
+  ./automation.sh
   ```
