@@ -4,9 +4,8 @@
 #......Created By: Zoozoo......#
 
 
-# CAUTION:
-**This SCRIPT only for educational purposes, PLEASE don't use it on any website *without* proper permission of it's owner.**
-**The user is responsible for his/her actions!**
+##CAUTION:
+**This SCRIPT only for educational purposes, PLEASE don't use it on any website *without* proper permission of it's owner. The user is responsible for his/her actions!**
 
 ## REQUIREMENTS:
 ONLY FOR KALI LINUX
